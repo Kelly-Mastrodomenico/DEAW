@@ -6,3 +6,10 @@ Repositorio creado para aprender y practicar Git y GitHub.
 kelrodmas
 ## Curso
 2024-2025
+
+## Compañeros de Clase
+
+| NOMBRE | GITHUB |
+|----------|-------------------------------------|
+| Edelmira | https://github.com/edelmira-cutillas|
+| Jennifer | https://github.com/Jennfolch) |
